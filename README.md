@@ -1,5 +1,5 @@
 ## Hi! I'm Bruno Fernandes :feelsgood:
-:small_blue_diamond: I’m currently learning Automation Test :robot:
+:small_blue_diamond: Software Quality Assurance :robot:
 
 <div align="center">
   <a href="https://github.com/fs-bruno">
